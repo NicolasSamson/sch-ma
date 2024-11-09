@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="_7Mi47ndJOTU_JMogV5w">
-    <mxGraphModel dx="819" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
         <mxCell id="ng3_SrWdMYkmazwFXMpG-26" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="880" width="440" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="k5P6EOGQu1ZiepA7MPoY-13" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 22px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;cmd_body_x_lwmean&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="ng3_SrWdMYkmazwFXMpG-26" vertex="1">
+        <mxCell id="k5P6EOGQu1ZiepA7MPoY-13" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 22px;white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; white-space-collapse: collapse; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%20style%3D%26quot%3Bcolor%3A%20%23000000%3Bbackground-color%3A%20%23ffffff%3Bfont-family%3A%20&#39;Droid%20Sans%20Mono&#39;%2C%20&#39;monospace&#39;%2C%20monospace%3Bfont-weight%3A%20normal%3Bfont-size%3A%2016px%3Bline-height%3A%2022px%3Bwhite-space%3A%20pre%3B%26quot%3B%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20%23a31515%3B%26quot%3B%26gt%3Bcmd_body_yaw_lwmean%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22590%22%20y%3D%221070%22%20width%3D%22220%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="ng3_SrWdMYkmazwFXMpG-26" vertex="1">
           <mxGeometry x="240" y="70" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ng3_SrWdMYkmazwFXMpG-23" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ng3_SrWdMYkmazwFXMpG-26">
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="ng3_SrWdMYkmazwFXMpG-21" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 22px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;cmd_body_x_lwmean&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ng3_SrWdMYkmazwFXMpG-24">
           <mxGeometry y="80" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ng3_SrWdMYkmazwFXMpG-27" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 22px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;cmd_body_yaw_lwmean&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ng3_SrWdMYkmazwFXMpG-26">
+          <mxGeometry x="220" y="80" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
